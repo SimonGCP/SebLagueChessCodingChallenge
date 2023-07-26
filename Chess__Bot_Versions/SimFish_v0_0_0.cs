@@ -1,5 +1,5 @@
 /**
- * SimBot v 0.0.0
+ * SimFish v 0.0.0
  * First attempt at making a working chess bot.
  * Strengths:
  *  - Always finds mate in 1
